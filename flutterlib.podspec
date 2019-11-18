@@ -8,7 +8,6 @@ TODO: Add long description of the pod here.
 
   s.homepage         = 'https://github.com/caodingpeng/FlutterAssets'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'cjl_spy@163.com' => 'cjl_spy@163.com' }
   s.source           = { :git => 'git@github.com:caodingpeng/FlutterAssets.git', :tag => s.version.to_s }
   s.ios.deployment_target = '10.0'
   s.static_framework = true
